@@ -79,7 +79,7 @@ itsdangerous==2.2.0
 jedi==0.19.1
 Jinja2==3.1.4
 json5==0.9.25
-jsonpointer==2.4
+jsonpointer==3.0.0
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 jupyter-events==0.10.0
@@ -117,7 +117,7 @@ notebook==6.5.7
 notebook_shim==0.2.4
 numpy==1.26.4
 overrides==7.7.0
-packaging==24.0
+packaging==24.1
 pandas==2.2.2
 pandocfilters==1.5.1
 parso==0.8.4
@@ -133,7 +133,7 @@ polars==0.20.31
 pre-commit==3.7.1
 progressbar2==4.4.2
 prometheus_client==0.20.0
-prompt_toolkit==3.0.46
+prompt_toolkit==3.0.47
 psutil==5.9.8
 psygnal==0.11.1
 ptyprocess==0.7.0
@@ -168,7 +168,7 @@ requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.7.1
-rich-click==1.8.2
+rich-click==1.8.3
 rpds-py==0.18.1
 ruff==0.4.8
 Send2Trash==1.8.3
