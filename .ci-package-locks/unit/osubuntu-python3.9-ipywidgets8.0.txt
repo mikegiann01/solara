@@ -42,7 +42,7 @@ distlib==0.3.8
 entrypoints==0.4
 exceptiongroup==1.2.1
 executing==2.0.1
-fastjsonschema==2.19.1
+fastjsonschema==2.20.0
 filelock==3.15.1
 Flask==3.0.3
 flask-sock==0.7.0
